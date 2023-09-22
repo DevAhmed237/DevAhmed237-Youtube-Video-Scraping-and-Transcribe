@@ -1,0 +1,275 @@
+0.0:  So Google recently made a massive update to its BARD chat bot,
+3.72:  which makes it so much more useful.
+5.76:  And although I'm recording this video when the news is only a few hours old,
+9.28:  there's already people on X sharing cool ways to use these new features
+14.24:  inside of BARD. So let's dig in.
+16.4:  So the biggest update that they announced was that they're launching BARD
+19.36:  extensions in English.
+21.2:  BARD can now find and show relevant information from Google tools like Gmail,
+25.3:  Docs, Drive, Google Maps, YouTube, Google flights, and hotels.
+29.16:  And it will even combine information across multiple sources with its responses.
+33.92:  It says here that if you choose to use the workspace extensions,
+36.72:  your content from Gmail Docs and Drive is not seen by human reviewers used by
+41.64:  BARD to show you ads or used to train the BARD model.
+45.28:  They also added the feature to easily double check the responses that BARD
+49.08:  shared with you. So when you get a response,
+51.72:  it will highlight the things in green that Google search was able to confirm,
+55.76:  and it will highlight in sort of this yellow orangey color,
+59.0:  the things that Google found conflicting information around.
+62.56:  You can now also share conversations that you had in BARD with other people.
+66.48:  And when they get the link to that conversation that you already had,
+69.72:  they're able to then continue the conversation and use your existing
+73.32:  conversation as a starting point.
+74.92:  So let's go ahead and jump right into BARD and play around with some of this,
+78.28:  as well as test some of the cool use cases that other people have shared over on
+82.36:  X.
+82.84:  So one thing to note is these extensions only work on the non Google workspace
+87.08:  accounts.
+87.76:  I normally use Google with my mattwolf.com Google workspace account,
+92.28:  but in order to get this to work, these new extension features,
+95.28:  I actually had to use one of my older Gmail accounts to actually see the
+99.0:  extensions. So if you are on one of the Google workspace accounts,
+101.64:  it doesn't seem that these features are in there quite yet.
+104.2:  So when I first log in, I get this pop-up here, introducing BARD extensions,
+108.24:  BARD meets Google workspace, quickly get what you need from Gmail,
+111.88:  get summaries of content from documents and PDFs.
+114.48:  Google respects your privacy, double check BARD's response.
+117.8:  This is all stuff that was in that news release that we just looked at and we
+121.24:  are in BARD. And I noticed there's a little puzzle piece image up here.
+125.48:  It says extensions. Let's go ahead and click on this. And it says,
+128.32:  extend your reach. BARD's extensions can now access information from YouTube,
+131.6:  maps, flights, and hotels to save time, create plan and more.
+134.8:  So let's go ahead and click. Let's go. So by default, it turned on Google flights,
+138.68:  Google hotels, Google maps, and YouTube.
+141.84:  Let's go ahead and turn on Google workspace as well,
+144.2:  to be able to search within Gmail drive and docs.
+147.56:  It asked me to connect to Google workspace. So let's go ahead and do it.
+150.72:  And we should be good to go on our extensions.
+154.12:  Now we'll click back to new chat and the two people that I've come across today
+158.24:  that have shared some really interesting use cases for this new BARD have been
+162.36:  my good friend, Chris Cashtenova over here on X as well as Paul Couvert over here
+166.72:  on X.
+167.32:  So I'm going to use some of their examples and test some of the ideas that they
+171.6:  shared. Now, some of the ideas that Chris shared are from September 8th,
+175.28:  which is actually before this extensions release for BARD,
+179.16:  but there are things that I haven't tried yet.
+180.72:  So I'm going to try some things that seemingly worked pretty well inside of
+185.0:  BARD, even before this extensions release, for example,
+187.68:  Chris shared that you can actually submit a meme into Google BARD and BARD
+192.56:  will actually help you understand the meaning of that meme.
+196.32:  So if you come across something, it just feels totally over your head,
+199.44:  throw it into BARD and see what happens.
+201.16:  So I came across this meme of Kermit the frog.
+203.88:  Let's go ahead and toss it into BARD and see what BARD thinks of it.
+207.6:  Just drag and drop the image right here into the chat box.
+210.56:  Explain why this meme is funny.
+213.84:  The meme is funny because it is relatable to many people.
+216.84:  Kermit the frog is a character from the Muppets and he is often seen as a symbol
+220.24:  of boredom and procrastination.
+221.68:  The image captures the feeling of putting off a task until the last minute and
+224.52:  then having to wait even longer because you're not quite ready to start yet.
+227.4:  If you want, you can pause the video and read the rest of the
+229.44:  explanation, but it's pretty good.
+230.88:  Now there's this G button down here that says double check response.
+233.68:  If I click on that, it'll search Google, evaluate BARD statements,
+237.24:  and this one found no results.
+239.64:  So this wasn't actually based on any sort of search.
+242.96:  It just interpreted the picture.
+244.88:  Chris also recommends BARD for DIY type stuff.
+248.04:  For instance, uploading a food item or something like socks, and then asking
+253.08:  BARD how to recreate that.
+254.76:  So for instance, here's an image of a cheeseburger.
+256.8:  Let's see what happens if I upload it and ask it to give me a recipe.
+260.04:  Toss it in here.
+260.92:  How can I recreate this food?
+262.6:  To recreate the triple cheeseburger in the image, you will
+264.84:  need the following ingredients.
+266.2:  Three hamburger patties, three slices of American cheese.
+268.56:  I actually think it's a double cheeseburger, but I'll let that slide.
+270.8:  One sesame seed bun, lettuce, tomato, pickles, ketchup, mustard, mayonnaise.
+273.88:  And then it goes on to give me the instructions on how to cook it.
+276.72:  And there we go.
+277.8:  Let's go ahead and double check the response from Google.
+280.4:  You can see that it highlighted three slices of American cheese.
+282.88:  If I click over that, it actually found some similar content on Reddit.
+286.04:  If I click over, there are many different types of cheese that
+288.36:  work well on cheeseburgers.
+289.48:  Click on that.
+290.2:  It found a website food and wine that it got that information from.
+293.84:  And then there's some related topics down here.
+295.72:  How to make a triple cheeseburger.
+297.0:  What are the ingredients in a triple burger?
+298.88:  What's in a triple cheeseburger?
+300.8:  I really think that's a double cheeseburger, but other than the three meat patties
+304.28:  part, I think it got the ingredients pretty dang right in this same thread.
+307.68:  Chris also goes on to say that BARD is really good at improving things like
+312.16:  images, you can give it an image and that will actually give you an improved
+315.6:  prompt to go and reprompt that image as well as with code.
+319.16:  It's not amazing at writing code right from scratch, but it's
+322.6:  really good at improving code.
+324.4:  So if you give it code and ask it to critique or improve that code,
+327.92:  BARD is really good at that.
+329.04:  But let's talk about some of the features that are new that they just added.
+332.48:  Let's jump over to this thread from Paul Couvert here, where he suggests BARD
+336.64:  can now summarize your Gmail emails.
+338.8:  You can also access your Google docs, slides, and sheets.
+342.0:  So let's have it summarize something from my email inbox.
+346.04:  Let's try a prompt.
+346.76:  Like what are the recent updates from my kid's school in my email?
+349.88:  Here's some recent updates from your kid's school in your email.
+352.2:  You belong week is coming up on September 18th through 22nd.
+355.08:  The PTA is having a membership drive.
+357.0:  Roundup tickets are on sale now.
+358.68:  Heartland swimming association.
+359.88:  Aqua fest is on October 17.
+362.32:  There are several community organizations offering enrichment opportunities for
+365.48:  kids, and then it actually points me to some of the emails that were used for
+370.76:  this response that it gave me.
+372.4:  So it just searched directly in my email for all the announcements from my kid's
+375.6:  school, as well as the swim team that my daughter's on part is also good
+378.76:  at helping you find flights.
+380.24:  So for example, what are the cheapest flights with no stops from
+382.84:  San Diego to Maui in October?
+384.76:  Searching Google flights.
+386.04:  I found a few round trip flights with no stops from San Diego to Maui
+389.52:  departing October 4th and returning on October 6th.
+392.16:  I mean, that's way too short of a trip for Maui, but at least we
+394.88:  got one of the directions, Alaska airlines, Hawaiian airlines.
+399.28:  Damn, only 237 bucks round trip.
+401.64:  I mean, that's really not that bad, but again, who would go to Maui and
+404.56:  leave on the 4th and come back on the 6th?
+406.08:  That's just ludicrous and also find places on Google maps for you.
+409.48:  So for example, if I type, I'm going to be in the lower east side of
+411.88:  New York next week, what are the highest rated pizza places in the area?
+415.52:  It's going to search Google maps for me.
+417.08:  Here's some of the highest rated pizza places in lower east side of New
+419.68:  York, according to Google maps, Salugi's pizza, uncle Sam's pizza, Alfonso's
+423.96:  pizzeria, Scar's pizza and slice joint.
+426.8:  If you know the lower east side of New York, you can confirm or deny these
+430.44:  results.
+431.08:  Chris Cascianova points out that you can also have it book hotels for you.
+434.52:  Help me book a hotel in the lower east side of New York next week.
+437.52:  Here are some highly rated hotels in the lower east side of New York.
+440.6:  Double tree, Holiday Inn, Hotel Indigo, Madison less hotel.
+445.12:  Book the holiday in for me.
+446.92:  All right.
+447.16:  So I need the following information.
+448.68:  Check in and check out date, number of guests, room type.
+451.24:  Let's do check in next Wednesday.
+452.84:  Check out on Friday.
+454.28:  One guest King bed.
+455.4:  Now you can see it's using Google hotels and it gives me the links directly to
+459.28:  where I can book along with images from each of the hotels, the prices for the
+463.36:  hotels.
+464.2:  I could click on the holiday and express here and it'll take me to where I can
+467.48:  actually book the hotel.
+468.76:  Then if I ask it a question like what are some interesting facts about the James
+472.16:  Webb telescope, you can see it pulls up all these facts, but once again, I want
+476.64:  to confirm these facts.
+477.72:  So let's click on double check response.
+479.76:  It's going to search Google for me and you can see it highlighted in this sort
+482.92:  of greenish color.
+483.84:  It's a little bit hard to see cause I use dark mode.
+485.88:  The green and the Brown would sound a little bit better if I was using light
+488.56:  mode, but you could see the ones in green.
+490.76:  It confirmed on NASA's website here.
+493.76:  This one's confirmed by NASA, by the web telescope.org.
+497.48:  So you can actually see where it confirmed this information, James Webb
+500.92:  discovery, web telescope.org.
+503.64:  And then down here, this Brown one, the JWST is so sensitive that it can detect
+508.12:  the heat signature of a B from a distance of 24 miles away.
+511.48:  If I click on that one, Google search, didn't find relevant content.
+514.84:  Consider researching further to assess the statement.
+517.28:  So it's basically telling me here's a fact about it, but I'm not totally sure.
+521.04:  And then it gives me some related searches that will search Google for me.
+524.6:  Now, if I actually want to share this chat thread and let somebody else
+527.08:  review my chat or even continue where I left off on the chat, I can click this
+530.92:  button that says share and export, click share and create a public link.
+534.96:  Here's the public link.
+535.92:  Anybody can use it.
+536.8:  If I copy this, let's go ahead and open it in a new incognito window here.
+540.64:  Paste that in and you can see here's my chat that I just had.
+544.48:  And then I can actually continue this chat if I was to then
+547.48:  sign in and click continue.
+549.48:  So these are some really amazing new features that are in Bard.
+552.32:  A couple other pieces of information about Bard.
+554.64:  It has not moved over to the new Gemini model, which is supposed to be so much
+558.76:  larger than Palm two and GPT four.
+561.84:  But right now it's still using the Palm two model from Google.
+565.32:  As of right now, it's one of the few chat bots that will actually search the web
+570.16:  to pull up as up-to-date relevant information as possible right now.
+573.96:  You can't do that with chat GPT.
+575.72:  You can't do that with Anthropics.
+577.04:  Claude perplexity will do that.
+579.08:  But as of right now, I think Bard is the best at doing that.
+582.32:  And even the way it fact checks itself helps you make sure that the information
+585.92:  that you're getting from it is actually relevant and legit information that you
+590.4:  can feel comfortable sharing because it's helping cite the source and you can click
+594.88:  right over to the source and find where the information was shared and not
+600.12:  only does it share the link to the source.
+602.4:  If I click on the source, it will actually highlight the section of that
+606.24:  page for me where it found that information.
+609.4:  So I don't have to go through and read the whole article to find how it found
+613.56:  that it just points it right to me.
+615.4:  Also, unlike chat GPT and unlike Claude, there is no pro plan for this.
+619.68:  You can just use it.
+620.64:  It's freely available to Google users right now.
+623.8:  Again, it's not available yet on the upgraded workspace plans, but if you just
+627.28:  have a regular Google Gmail free account with Google drive and that sort of stuff,
+632.16:  you can use this right now.
+633.64:  You can get the extensions and it connects to all of your tools.
+637.12:  I want to do one more experiment here.
+638.88:  That's not based on anything I've seen on X or anything like that.
+641.92:  I'm just curious how well it works with sheets.
+644.56:  So one last experiment before we wrap up here, what was my
+647.4:  latest Google sheets spreadsheet?
+649.36:  It's looking in Google workspace.
+650.96:  Now it pulled up some documents.
+653.2:  These aren't necessarily.
+655.08:  Sheets.
+655.8:  Let's go ahead and reword it.
+657.28:  What was my latest spreadsheet?
+658.8:  See if it can sort down to just the spreadsheets.
+661.16:  So it's struggling a little to find just the spreadsheets.
+664.48:  It's finding docs for me, but not specifically the Google sheets for me.
+669.28:  But just for fun, let's go ahead and say, give me a short step by step of the
+673.12:  process in hustle and flow chart podcast process.
+676.48:  Let's see if it'll actually break out the steps for me here.
+678.76:  Record the episode, add episode to Dropbox, edit slash clean up audio file, put it in
+683.08:  completed folder, right?
+684.04:  Show notes, create featured image, upload to Libsyn bed player on WordPress
+688.04:  mail list when show goes live.
+689.92:  So there you go.
+691.12:  It actually looked inside of this document for me and then broke down the process.
+695.72:  If I open up the actual document, you could see it's a much longer
+698.4:  document with a lot more steps.
+699.84:  It just gave me the overview of it.
+702.08:  So I'll definitely be putting Bard through its motions and
+704.36:  testing it more and more.
+705.48:  And as I come across new, cool use cases for it, I plan to do another
+709.44:  Bard update in the future to show you all the cool ways that I've come
+712.56:  across that you can use it.
+713.76:  But for right now, I wanted to give you an update, let you know that these
+716.16:  new Bard features exist and give you the opportunity to go jump in and play
+719.84:  around with them yourself, because they're pretty cool from a usefulness
+723.08:  perspective, Bard is definitely catching up with chat GPT and Claude, because
+726.88:  right now it's the best one at actually using your data as well as searching
+732.32:  the internet for additional information and context.
+735.04:  So you can check it out, bard.google.com.
+737.8:  And if you want to make sure you stay in the loop with all of the latest cool
+741.68:  AI tools, as well as AI news, check out future tools.io.
+745.72:  I recently just added a dark mode here, which was one of my most requested
+749.56:  features, so check that out.
+751.48:  Maybe it'll make you want to use the site more so it doesn't make your eyes burn.
+754.12:  I don't know, but I keep it up to date almost every single day with all the
+756.8:  latest tools and latest news in the AI space.
+759.68:  And if you like videos like this, you want to stay up to date on the latest
+762.72:  news in the AI space, as well as get cool tutorials on how to do stuff,
+766.52:  see some fun AI challenges and learn about new tools all the time.
+770.84:  Make sure you subscribe to this channel and like videos like this, and it'll
+773.48:  make sure more show up in your YouTube feed and it also helps me out.
+777.0:  It makes me feel good.
+777.92:  So thank you so much for tuning into this video.
+780.2:  I really, really appreciate you.
+781.52:  I'll see you guys in the next one.
+782.68:  Bye bye.
